@@ -11,7 +11,7 @@ CRT 205: Raspberry Pi introduction.
 
 Raspberry Pis also work with breadboards. When male ends are connected to the GPIO pins on the Raspberry Pi, outputs and other reactions can be obtained. However, receiving an input/output depends on what is wired or constructed.
 
-The breadboard shown here is a simple vending machine, more about the project [[here|https://github.com/BlitzIR/BreadboardVendingMachine]].
+The breadboard shown here is a simple vending machine, more about the project [here](https://github.com/BlitzIR/BreadboardVendingMachine).
 
 
 # Citations
